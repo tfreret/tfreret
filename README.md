@@ -1,16 +1,26 @@
-### Hi there 👋
+# Hi there! 👋
 
-<!--
-**tfreret/tfreret** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Tom, a computer science student with a deep passion for the field. I thrive on curiosity and have an insatiable appetite for learning.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 Currently pursuing a degree in Computer Science.
+- 💻 Always exploring new technologies and coding projects.
+- 🤔 Curious mind, always eager to understand the "why" behind things.
+- 📚 Love expanding my knowledge through continuous learning.
+
+## Interests
+
+- 👾 Software Development
+- 🌐 Web Development
+- 🍣 FOOOODD !
+- 🎮 Video Games
+- 🏎️ Motor sports
+- ⚡ Electronics
+
+## Get in Touch
+
+Feel free to connect with me! I'm open to discussions, collaboration, or just a friendly chat.
+
+- 📧 Email: freret.tom@gmail.com
+- 💼 LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/yourusername/)
