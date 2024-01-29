@@ -23,4 +23,4 @@ I'm Tom, a computer science student with a deep passion for the field. I thrive 
 Feel free to connect with me! I'm open to discussions, collaboration, or just a friendly chat.
 
 - 📧 Email: freret.tom@gmail.com
-- 💼 LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/yourusername/)
+- 💼 LinkedIn: [Tom Freret](https://www.linkedin.com/in/tom-freret/)
