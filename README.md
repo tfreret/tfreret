@@ -25,4 +25,5 @@ Feel free to connect with me! I'm open to discussions, collaboration, or just a 
 - 📧 Email: freret.tom@gmail.com
 - 💼 LinkedIn: [Tom Freret](https://www.linkedin.com/in/tom-freret/)
 
-🔥
+
+🐧🔥
