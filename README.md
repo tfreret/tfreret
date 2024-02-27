@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-I'm Tom, a computer science student with a deep passion for the field. I thrive on curiosity and have an insatiable appetite for learning.
+I'm Tom, an IT student and I've always been passionate about this field. I love learning and sharing.
 
 ## About Me
 
@@ -12,18 +12,7 @@ I'm Tom, a computer science student with a deep passion for the field. I thrive 
 ## Interests
 
 - 👾 Software Development
-- 🌐 Web Development
-- 🍣 FOOOODD !
+- 🍣 Cooking
 - 🎮 Video Games
 - 🏎️ Motor sports
 - ⚡ Electronics
-
-## Get in Touch
-
-Feel free to connect with me! I'm open to discussions, collaboration, or just a friendly chat.
-
-- 📧 Email: freret.tom@gmail.com
-- 💼 LinkedIn: [Tom Freret](https://www.linkedin.com/in/tom-freret/)
-
-
-🐧🔥
