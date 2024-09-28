@@ -1,18 +1,13 @@
 # Hi there! 👋
 
-I'm Tom, an IT student and I've always been passionate about this field. I love learning and sharing.
+I'm **<a href="https://www.linkedin.com/in/tom-freret/">Tom</a>**, an IT student specializing in software engineering. I love learning and sharing knowledge, but what I enjoy the most is diving into new projects and experimenting.
 
-## About Me
+## About me
 
-- 🎓 Currently pursuing a degree in Computer Science.
-- 💻 Always exploring new technologies and coding projects.
-- 🤔 Curious mind, always eager to understand the "why" behind things.
-- 📚 Love expanding my knowledge through continuous learning.
+- 🎓 Currently pursuing a **degree in Computer Science** at IMT Atlantique.
+- 💻 Exploring new technologies, developing, learning, and tinkering with electronics ⚡.
+- 📚 Continuously expanding my knowledge through reading, courses, videos, conferences, and hands-on experience.
+- 🧗 A huge fan of all kinds of **sports**, including e-sports 🎮 and motor sports 🏎️.
+- 🍣 The second thing I love most in the world, after my family, is cooking and eating delicious **food**.
 
-## Interests
-
-- 👾 Software Development
-- 🍣 Cooking
-- 🎮 Video Games
-- 🏎️ Motor sports
-- ⚡ Electronics
+If you're interested in tech, sports, cooking, or anything else, feel free to reach out! I’d love to connect and share ideas.
