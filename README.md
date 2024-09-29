@@ -4,7 +4,7 @@ I'm **<a href="https://www.linkedin.com/in/tom-freret/">Tom</a>**, an IT student
 
 ## About me
 
-- 🎓 Currently pursuing a **degree in Computer Science** at IMT Atlantique.
+- 🎓 Currently pursuing a **degree in Software Engineering** at IMT Atlantique.
 - 💻 Exploring new technologies, developing, learning, and tinkering with electronics ⚡.
 - 📚 Continuously expanding my knowledge through reading, courses, videos, conferences, and hands-on experience.
 - 🧗 A huge fan of all kinds of **sports**, including e-sports 🎮 and motor sports 🏎️.
